@@ -1,5 +1,5 @@
 # adventurer001
-import random
+import random  111
 
 quotes = [
     "Stay hungry, stay foolish.",
