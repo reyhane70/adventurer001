@@ -9,5 +9,5 @@ quotes = [
 ]
 
 print("💡 Random Quote:")
-print(random.choice(quotes ))
+print(random.choice(quotes )
 best
