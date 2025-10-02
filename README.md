@@ -9,4 +9,4 @@ quotes = [
 ]
 print("💡 Random Quote:")
 print(random.choice(quotes ))
-
+best
